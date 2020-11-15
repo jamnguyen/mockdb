@@ -62,7 +62,7 @@
         "updated_at": "2020-08-27T08:43:37.768576",
         "file_name": "This is me.wav",
         "file_size": 39076032,
-        "status": "failed"
+        "status": "error"
       },
       {
         "id": 3,
